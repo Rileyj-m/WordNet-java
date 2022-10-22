@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/rileymarsden/csci232/jars/stdlib.jar",
+        "/Users/rileymarsden/csci232/jars/algs4.jar"
+    ]
+}
